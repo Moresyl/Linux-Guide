@@ -629,6 +629,8 @@ Linux Boot Process
 
 [AppImage Manager](https://github.com/AppImageCrafters/appimage-manager) is a package manager for AppImages.
 
+[DSH Studio](https://github.com/Moresyl/dsh-studio/releases/tag/v0.1.1) — MIT-licensed, local-first developer workspace distributed as an x86_64 AppImage, with source available on GitHub.
+
 [AppImage Forum](https://discourse.appimage.org/)
 
  <img src="https://user-images.githubusercontent.com/45159366/106686382-0b505c80-657f-11eb-9d74-9a94ec0d0693.png">
